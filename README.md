@@ -9,6 +9,12 @@ A simple program that asks you pre-defined questions, for example for learning v
 - Questions are defined in a json file
 - Current session will be saved in a json file
 
+## How to install
+
+1. Install [python](https://www.python.org/downloads/).
+2. Download the `quiz-program.py`.
+3. Run the `quiz-program.py` by double clicking or from the console with `python /path/to/quiz-program.py`
+
 ![Example screenshot](screenshot.jpg)
 
 ## Command Reference

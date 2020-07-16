@@ -9,6 +9,8 @@ A simple program that asks you pre-defined questions, for example for learning v
 - Questions are defined in a json file
 - Current session will be saved in a json file
 
+![Example screenshot](screenshot.jpg)
+
 ## Command Reference
 The following commands are available:
 + `h`, `help`: Print the help.

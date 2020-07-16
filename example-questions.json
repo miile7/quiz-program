@@ -1,0 +1,10 @@
+{
+	"title": "Python Knowledge",
+	"version": "1.1",
+	"topics": {
+		"What is the maximum integer value": "Python (3+) does not have a limit",
+		"What does a docstring do": "Document functions, modules, methods, ...",
+		"Explain the difference between threading, asyncio and multithreading": 
+			"Threading uses threads but is bound to the GIL (Global interpreter lock), multithreading isn't. Both are for parallelism. For concurrency, asyncio can be used too. This allows to execute code while other code is waiting"
+    }
+}
